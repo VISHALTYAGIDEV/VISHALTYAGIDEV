@@ -2,6 +2,13 @@
 I am a Full Stack Software Developer with a strong interest in backend development, particularly using the MERN stack. I have experience working with multiple programming languages including Python, C++, C, JavaScript, TypeScript, and Java. On the frontend, I work with HTML, CSS, React, and Next.js, while on the backend I use Node.js and Express.js to build scalable applications. I am also proficient in working with MongoDB for database management. I enjoy building efficient systems, designing APIs, and continuously improving my skills in full stack and backend development.
 
 
+### 📌 GitHub Account Update
+
+My previous GitHub account is no longer available. This is my **new GitHub account**, where I’ll be maintaining my projects, learning progress, and contributions going forward.
+
+Thanks for visiting! 🚀
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishal.tyaaagi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tyagiji1) 
 
